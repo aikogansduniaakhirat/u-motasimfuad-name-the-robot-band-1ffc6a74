@@ -1,0 +1,11 @@
+{
+  "name": "u-motasimfuad-name-the-robot-band-1ffc6a74",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A program that writes one line to /output/entry.txt: a robot band called Emergency Stop, plus the hit song that names it.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
